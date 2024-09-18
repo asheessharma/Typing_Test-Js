@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+textarea{
+    border: 2px solid rgb(128, 128, 128);
+    margin: 10px;
+    width: 903px;
+    height: 236px;
+}
+button{
+    height: 40px;
+    width: 90px;
+    border-radius: 5px;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-family: serif;
+}
